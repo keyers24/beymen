@@ -1,4 +1,4 @@
-Beymen | For Testinium
+Beymen 
 Build with
 
 Selenium : Browser automation framework
